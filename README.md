@@ -9,4 +9,4 @@ Expected:
 The PR should not show up because it has the new label.
 
 Actual:
-The PR shows up in the search.  
+The PR shows up in the search!  
